@@ -6,4 +6,5 @@ Busco cada vez mais conhecimento na área, no momento, além da faculdade, estou
 
 Meu LinkedIn: [linkedin.com/in/viniciusmedeiros13/)](https://www.linkedin.com/in/viniciusmedeiros13/)<br/>
 Meu Instagran: [instagram.com/vinimedeiros.13/?hl=pt-br](https://www.instagram.com/vinimedeiros.13/?hl=pt-br)<br/>
+Email para contato: vinimedeiros7@outlook.com
 </p>
