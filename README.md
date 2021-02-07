@@ -25,6 +25,6 @@ Aprendendo:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=viniciusmedeiros13&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <!--by:J.V-->
-![Stats](https://camo.githubusercontent.com/7742ced014f23910bed2d6c232691eb3221ffb030849e4f7c9abf3b94b817d56/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c75636173626976617226686964653d68746d6c266c61796f75743d636f6d70616374267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d66666626746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135)
+<img width="463px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmedeiros13&theme=radical" />
 
 </p>
