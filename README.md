@@ -23,8 +23,8 @@ Aprendendo:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="imagem" width="50"> <br/>
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=viniciusmedeiros13&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Stats](https://github-readme-stats.vercel.app/api?username=vinimedeiros13&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <!--by:J.V-->
-<img width="463px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmedeiros13&theme=radical" />
+<img width="463px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimedeiros13&theme=radical" />
 
 </p>
