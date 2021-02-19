@@ -10,6 +10,10 @@ Meu LinkedIn: [linkedin.com/in/viniciusmedeiros13](https://www.linkedin.com/in/v
 Meu Instagran: [instagram.com/vinimedeiros.13](https://www.instagram.com/vinimedeiros.13/?hl=pt-br)<br/>
 Email para contato: vinimedeiros7@outlook.com<br/>
 
+<div align=center>
+<img  src="https://i.imgur.com/RXMBN0R.gif" alt="imagem" width=500>
+</div>
+
 Linguagens:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="50"> &nbsp;
