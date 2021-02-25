@@ -14,8 +14,8 @@ Email para contato: vinimedeiros7@outlook.com<br/>
 
 Linguagens:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="50"> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="imagem" width="50"> &nbsp;
+<a href="https://kenzie.com.br/blog/o-que-e-python/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="50"> </a> &nbsp;
+<a href="https://blog.betrybe.com/linguagem-de-programacao/linguagem-c/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="imagem" width="50"> </a> &nbsp;
 
 Aprendendo:
 
