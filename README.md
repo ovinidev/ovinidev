@@ -6,8 +6,8 @@
 Me chamo Vinícius, tenho 19 anos e atualmente curso Engenharia de Computação no IFPB - Campus Campina Grande.<br/>
 Busco cada vez mais conhecimento na área, no momento, além da faculdade, estou nos estudos de HTML e Ethical hacking.<br/>
 
-Meu LinkedIn: [linkedin.com/in/viniciusmedeiros13](https://www.linkedin.com/in/vinimedeiros13)<br/>
-Meu Instagran: [instagram.com/vinimedeiros.13](https://www.instagram.com/vinimedeiros.13/?hl=pt-br)<br/>
+Meu LinkedIn: [linkedin.com/in/vinimedeiros13](https://www.linkedin.com/in/vinimedeiros13/)<br/>
+Meu Instagran: [instagram.com/vinimedeiros13](https://www.instagram.com/vinimedeiros13/?hl=pt-br)<br/>
 Email para contato: vinimedeiros7@outlook.com<br/>
 
 <img  src="https://i.imgur.com/RXMBN0R.gif" alt="imagem" width=500>
@@ -23,9 +23,9 @@ Email para contato: vinimedeiros7@outlook.com<br/>
 
 ### 🕵🏻‍♂️ Aprendendo:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="imagem" width="60"> <br/> &nbsp;
-<img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="imagem" width="60"> <br/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="imagem" width="60"> <br/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="imagem" width="60"> &nbsp;
+<img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="imagem" width="60"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="imagem" width="60"> &nbsp;
 
 
 </p>
