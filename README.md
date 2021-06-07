@@ -26,7 +26,9 @@ Email para contato: vinimedeiros7@outlook.com<br/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="imagem" width="60"> &nbsp;
 <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="imagem" width="60"> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="imagem" width="90"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"> &nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="imagem" width="60"> &nbsp;
+
 
 
 </p>
