@@ -20,7 +20,6 @@ Busco cada vez mais conhecimento na área, no momento estou estudando Front-end.
 ### 🕵🏻‍♂️ Aprendendo:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="imagem" width="55"> &nbsp;
-<img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="imagem" width="55"> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55"> &nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="imagem" width="55"> &nbsp;
 
@@ -29,6 +28,7 @@ Busco cada vez mais conhecimento na área, no momento estou estudando Front-end.
 
 <a href="https://kenzie.com.br/blog/o-que-e-python/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="55"> </a> &nbsp;
 <a href="https://blog.betrybe.com/linguagem-de-programacao/linguagem-c/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="imagem" width="55"> </a> &nbsp;
+<img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="imagem" width="55"> &nbsp;
 
 <hr>
 
