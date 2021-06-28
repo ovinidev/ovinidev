@@ -27,9 +27,9 @@ Busco cada vez mais conhecimento na área, no momento estou estudando Front-end.
 
 ### 👨🏻‍💻 Conhecimentos básicos:
 
-<a href="https://kenzie.com.br/blog/o-que-e-python/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="56"> </a> &nbsp;
-<a href="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="imagem" width="52"> </a> &nbsp;
-<img src="https://camo.githubusercontent.com/5b44cc6b7ca4660663b445cae08a0468fcd8b8f07afb17f2ef55adea89a7d4c4/68747470733a2f2f692e696d6775722e636f6d2f6f344653655a362e706e67" alt="imagem" width="56"> &nbsp;
+<a href="https://kenzie.com.br/blog/o-que-e-python/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="55"> </a> &nbsp;
+<a href="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="imagem" width="50"> </a> &nbsp;
+<img src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png" width="45"> &nbsp;
 
 <hr>
 
