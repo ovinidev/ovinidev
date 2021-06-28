@@ -12,24 +12,24 @@ Busco cada vez mais conhecimento na área, no momento estou estudando Front-end.
 
 ### 🚀 Front-End:
   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="imagem" width="60"> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="imagem" width="60"> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="imagem" width="60"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="imagem" width="50"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="imagem" width="50"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="imagem" width="50"> &nbsp;
 
 
 ### 🕵🏻‍♂️ Aprendendo:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55"> &nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="imagem" width="55"> &nbsp;
-<img src="https://camo.githubusercontent.com/83bc697a3346dad864a73cb6b9d36a58678eb233c43c99a4072a2b61aac180af/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f6a6573742d6c6f676f2d706e672d7472616e73706172656e742e706e67" alt="imagem" width="50"> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="imagem" width="55"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"> &nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="imagem" width="50"> &nbsp;
+<img src="https://camo.githubusercontent.com/83bc697a3346dad864a73cb6b9d36a58678eb233c43c99a4072a2b61aac180af/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f6a6573742d6c6f676f2d706e672d7472616e73706172656e742e706e67" alt="imagem" width="45"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="imagem" width="50"> &nbsp;
 
 
 ### 👨🏻‍💻 Conhecimentos básicos:
 
-<a href="https://kenzie.com.br/blog/o-que-e-python/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="55"> </a> &nbsp;
-<a href="https://blog.betrybe.com/linguagem-de-programacao/linguagem-c/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="imagem" width="55"> </a> &nbsp;
-<img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="imagem" width="55"> &nbsp;
+<a href="https://kenzie.com.br/blog/o-que-e-python/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="56"> </a> &nbsp;
+<a href="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="imagem" width="52"> </a> &nbsp;
+<img src="https://camo.githubusercontent.com/5b44cc6b7ca4660663b445cae08a0468fcd8b8f07afb17f2ef55adea89a7d4c4/68747470733a2f2f692e696d6775722e636f6d2f6f344653655a362e706e67" alt="imagem" width="56"> &nbsp;
 
 <hr>
 
