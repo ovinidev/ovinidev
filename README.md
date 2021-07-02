@@ -4,10 +4,7 @@
 <img  src="https://i.imgur.com/DRRTdfs.gif" alt="imagem"> <br>
   
 <h4> Me chamo Vinícius, tenho 19 anos e atualmente curso Engenharia de Computação no IFPB - Campus Campina Grande.<br/>
-Busco cada vez mais conhecimento na área, no momento estou estudando Front-end.</h4><br/>
-
-
-<img  src="https://i.imgur.com/RXMBN0R.gif" alt="imagem" width=500>
+Busco cada vez mais conhecimento na área, no momento estou estudando Front-end.</h4>
 
 
 ### 🚀 Front-End:
@@ -36,5 +33,7 @@ Busco cada vez mais conhecimento na área, no momento estou estudando Front-end.
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinimedeiros13/) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/instagram%20-%23DC322F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinimedeiros13/?hl=pt-br) &nbsp;
 [![Outlook Badge](https://img.shields.io/badge/outlook%20-%230077B5.svg?&style=for-the-badge&logo=microsoft&logoColor=white)](mailto:vinimedeiros7@outlook.com)
+
+<img  src="https://i.imgur.com/RXMBN0R.gif" alt="imagem" width=500>
 
 </p>
