@@ -3,7 +3,7 @@
 <p align="center">
 <img  src="https://i.imgur.com/DRRTdfs.gif" alt="imagem"> <br>
   
-<h4> Me chamo Vinícius, tenho 19 anos e atualmente curso Engenharia de Computação no IFPB - Campus Campina Grande.<br/>
+<h4> 🪐 Me chamo Vinícius, tenho 19 anos e atualmente curso Engenharia de Computação no IFPB - Campus Campina Grande.<br/>
 Busco cada vez mais conhecimento na área, no momento estou estudando Front-end.</h4>
 
 
@@ -35,6 +35,7 @@ src="https://camo.githubusercontent.com/83bc697a3346dad864a73cb6b9d36a58678eb233
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinimedeiros13/) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/instagram%20-%23DC322F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinimedeiros13/?hl=pt-br) &nbsp;
 [![Outlook Badge](https://img.shields.io/badge/outlook%20-%230077B5.svg?&style=for-the-badge&logo=microsoft&logoColor=white)](mailto:vinimedeiros7@outlook.com)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](mailto:https://www.youtube.com/channel/UCjSX3B8Aa2Ik8mzXsIIL2dQ)
 
 
 </p>
