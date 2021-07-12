@@ -34,6 +34,5 @@ Busco cada vez mais conhecimento na área, no momento estou estudando Front-end.
 [![Instagram Badge](https://img.shields.io/badge/instagram%20-%23DC322F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinimedeiros13/?hl=pt-br) &nbsp;
 [![Outlook Badge](https://img.shields.io/badge/outlook%20-%230077B5.svg?&style=for-the-badge&logo=microsoft&logoColor=white)](mailto:vinimedeiros7@outlook.com)
 
-<img  src="https://i.imgur.com/RXMBN0R.gif" alt="imagem" width=500>
 
 </p>
