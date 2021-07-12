@@ -36,8 +36,8 @@ src="https://camo.githubusercontent.com/83bc697a3346dad864a73cb6b9d36a58678eb233
 )](https://www.linkedin.com/in/vinimedeiros13/) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/vinimedeiros13/?hl=pt-br) &nbsp;
-[![Outlook Badge](https://img.shields.io/badge/outlook%20-%230077B5.svg?&style=for-the-badge&logo=microsoft&logoColor=white)](mailto:vinimedeiros7@outlook.com)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](mailto:www.youtube.com/channel/UCjSX3B8Aa2Ik8mzXsIIL2dQ)
+[![Outlook Badge](https://img.shields.io/badge/outlook%20-%230077B5.svg?&style=for-the-badge&logo=microsoft&logoColor=white)](mailto:vinimedeiros7@outlook.com) &nbsp;
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](mailto:www.youtube.com/channel/UCjSX3B8Aa2Ik8mzXsIIL2dQ) &nbsp;
 
 
 </p>
