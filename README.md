@@ -38,7 +38,7 @@ src="https://camo.githubusercontent.com/83bc697a3346dad864a73cb6b9d36a58678eb233
 <a href="https://www.instagram.com/vinimedeiros13/?hl=pt-br" alt="Instagram">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://youtu.be/0ww5WNeiJPU" alt="Youtube">
+<a href="https://youtu.be/0ww5WNeiJPU?t=0" alt="Youtube">
    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 <a href="vinimedeiros7@outlook.com" alt="Outlook">
