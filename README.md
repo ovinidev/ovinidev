@@ -39,5 +39,9 @@ src="https://camo.githubusercontent.com/83bc697a3346dad864a73cb6b9d36a58678eb233
 [![Outlook Badge](https://img.shields.io/badge/outlook%20-%230077B5.svg?&style=for-the-badge&logo=microsoft&logoColor=white)](mailto:vinimedeiros7@outlook.com) &nbsp;
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](mailto:www.youtube.com/channel/UCjSX3B8Aa2Ik8mzXsIIL2dQ) &nbsp;
 
+<a href="https://youtu.be/0ww5WNeiJPU" alt="Youtube">
+   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
 
 </p>
