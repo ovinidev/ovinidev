@@ -32,10 +32,14 @@ src="https://camo.githubusercontent.com/83bc697a3346dad864a73cb6b9d36a58678eb233
 
 <hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinimedeiros13/) &nbsp;
-[![Instagram Badge](https://img.shields.io/badge/instagram%20-%23DC322F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinimedeiros13/?hl=pt-br) &nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/vinimedeiros13/) &nbsp;
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/vinimedeiros13/?hl=pt-br) &nbsp;
 [![Outlook Badge](https://img.shields.io/badge/outlook%20-%230077B5.svg?&style=for-the-badge&logo=microsoft&logoColor=white)](mailto:vinimedeiros7@outlook.com)
+<a href="https://www.youtube.com/channel/UCjSX3B8Aa2Ik8mzXsIIL2dQ">
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](mailto:https://www.youtube.com/channel/UCjSX3B8Aa2Ik8mzXsIIL2dQ)
+</a>
 
 
 </p>
