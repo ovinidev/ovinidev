@@ -1,7 +1,7 @@
 ## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Me chamo Vinícius
 
 <p align="center">
-<img  src="https://i.imgur.com/DRRTdfs.gif" alt="imagem"> <br>
+<img  src="https://i.imgur.com/aJw0RDZ.png" alt="imagem"> <br>
   
 <h4> 🪐 Me chamo Vinícius, tenho 19 anos e atualmente curso Engenharia de Computação no IFPB - Campus Campina Grande.<br/>
 Busco cada vez mais conhecimento na área, no momento estou estudando Front-end.</h4>
