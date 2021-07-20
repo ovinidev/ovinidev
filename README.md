@@ -30,7 +30,7 @@ src="https://camo.githubusercontent.com/83bc697a3346dad864a73cb6b9d36a58678eb233
 
 <a href="https://kenzie.com.br/blog/o-que-e-python/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="55"> </a> &nbsp;
 <a href="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="imagem" width="50"> </a> &nbsp;
-<img src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png" width="45"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="45"> &nbsp;
 
 <hr>
 
