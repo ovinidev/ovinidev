@@ -23,7 +23,7 @@ Busco cada vez mais conhecimento na área, no momento estou estudando Front-end.
 
 <img 
 src="https://camo.githubusercontent.com/83bc697a3346dad864a73cb6b9d36a58678eb233c43c99a4072a2b61aac180af/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f6a6573742d6c6f676f2d706e672d7472616e73706172656e742e706e67" alt="imagem" width="45"> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="imagem" width="50"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="imagem" width="50"> &nbsp;
 
 
 ### 👨🏻‍💻 Conhecimentos básicos:
