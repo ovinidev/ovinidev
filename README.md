@@ -45,6 +45,8 @@ src="https://camo.githubusercontent.com/83bc697a3346dad864a73cb6b9d36a58678eb233
 
 <hr>
 
+### 👨🏻‍💻 Redes Sociais:
+
 <a href="https://www.linkedin.com/in/vinimedeiros13/" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
