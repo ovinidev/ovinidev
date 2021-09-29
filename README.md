@@ -5,9 +5,7 @@
   <img  src="https://i.imgur.com/ArMZaft.png" alt="imagem"> <br>
 </a>
   
-<h4> 🪐 Me chamo Vinícius, tenho 19 anos e atualmente curso Engenharia de Computação no IFPB - Campus Campina Grande.<br/>
-Busco cada vez mais conhecimento na área, no momento estou estudando Front-end.</h4>
-
+<h4> 🪐 Me chamo Vinícius,  tenho 19 anos, sou desenvolvedor Front-End na Dataside e curso Engenharia de Computação no IFPB - campus Campina Grande (3° período).</h4>
 
 <h2> 🚀 Front-End: </h2>
 
