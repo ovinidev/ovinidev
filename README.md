@@ -27,22 +27,6 @@
 <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="imagem" width="68"> &nbsp;
 
 
-### 🕵🏻‍♂️ Aprendendo:
-  
-<img 
-src="https://camo.githubusercontent.com/83bc697a3346dad864a73cb6b9d36a58678eb233c43c99a4072a2b61aac180af/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f6a6573742d6c6f676f2d706e672d7472616e73706172656e742e706e67" alt="imagem" width="45"> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="imagem" width="50"> &nbsp;
-<img src="https://d2zv2ciw0ln4h1.cloudfront.net/uploads/hp-logo-hero_c94026101f.svg" width="45"> &nbsp;
-
-
-### 👨🏻‍💻 Conhecimentos básicos:
-
-<a href="https://kenzie.com.br/blog/o-que-e-python/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="55"> </a> &nbsp;
-<a href="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="imagem" width="50"> </a> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="45"> &nbsp;
-
-<hr>
-
 ### 👨🏻‍💻 Redes Sociais:
 
 <a href="https://www.linkedin.com/in/vinimedeiros13/" alt="Linkedin">
