@@ -45,7 +45,7 @@
 ### 🔧 Ferramentas:<br>
 <img height="45" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &nbsp;
 <img height="50" title="Android" alt="Android" src="https://1.bp.blogspot.com/-PwaAONmMm78/V-ASbVPG39I/AAAAAAAADZY/boHNhTW5V4Y45qzx6gIweePgoO2VkIhfQCLcB/s1600/image04.png"> &nbsp;
-<img height="45" title="Android" alt="Azure" src="https://camo.githubusercontent.com/796a6264884ec8c0d8dcb24ecd4232c1fc64c7cf8f8db836e5bbb915b7574cf8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f617a7572652f617a7572652d6f726967696e616c2e737667"> &nbsp;
+<img height="45" title="Azure" alt="Azure" src="https://camo.githubusercontent.com/796a6264884ec8c0d8dcb24ecd4232c1fc64c7cf8f8db836e5bbb915b7574cf8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f617a7572652f617a7572652d6f726967696e616c2e737667"> &nbsp;
 <img height="45" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
 
 </p>
