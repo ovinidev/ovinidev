@@ -48,5 +48,6 @@
 <img height="45" title="Azure" alt="Azure" src="https://camo.githubusercontent.com/796a6264884ec8c0d8dcb24ecd4232c1fc64c7cf8f8db836e5bbb915b7574cf8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f617a7572652f617a7572652d6f726967696e616c2e737667"> &nbsp;
 <img height="45" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
 <img height="45" title="Yarn" alt="Yarn" src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png"> &nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" alt="Expo" width="45"> &nbsp;
 
 </p>
