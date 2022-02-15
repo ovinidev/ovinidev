@@ -46,7 +46,7 @@
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.youtube.com/watch?v=vB5611atQvg&t" alt="Youtube">
-   <img src="https://www.youtube.com/watch?v=vB5611atQvg&t"/>
+   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 <a href="vinimedeiros7@outlook.com" alt="Outlook">
    <img src="https://img.shields.io/badge/outlook%20-%230077B5.svg?&style=for-the-badge&logo=microsoft&logoColor=white"/>
