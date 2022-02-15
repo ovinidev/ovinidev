@@ -24,8 +24,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="imagem" width="60"> &nbsp;
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="imagem" width="68"> &nbsp;
-<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="imagem" width="68"> &nbsp;
-<img src="https://i.imgur.com/Y194qy5.png" alt="imagem" width="65"> &nbsp;
+&nbsp;
+<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="imagem" width="65"> &nbsp;
+<img src="https://i.imgur.com/Y194qy5.png" alt="imagem" width="63"> &nbsp;
 
 ### 🔧 Ferramentas:<br>
 <img height="45" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &nbsp;
