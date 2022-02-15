@@ -25,8 +25,8 @@
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="imagem" width="68"> &nbsp;
 <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="imagem" width="68"> &nbsp;
+<img src="https://i.imgur.com/Y194qy5.png" alt="imagem" width="65"> &nbsp;
 
-  
 ### 🔧 Ferramentas:<br>
 <img height="45" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &nbsp;
 <img height="50" title="Android" alt="Android" src="https://1.bp.blogspot.com/-PwaAONmMm78/V-ASbVPG39I/AAAAAAAADZY/boHNhTW5V4Y45qzx6gIweePgoO2VkIhfQCLcB/s1600/image04.png"> &nbsp;
