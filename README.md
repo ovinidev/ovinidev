@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vinimedeiros13/" target="_blank">
-  <img  src="https://i.imgur.com/ArMZaft.png" alt="imagem"> <br>
+  <img src="https://i.imgur.com/60sQ91c.png" width="80%" alt="imagem"> <br>
 </a>
   
 <h4> 🪐 Me chamo Vinícius, tenho 19 anos, sou desenvolvedor Front-End na Dataside e sou apaixonado pelo que faço.</h4>
