@@ -46,7 +46,7 @@
 <a href="https://www.instagram.com/vinimedeiros13/?hl=pt-br" alt="Instagram">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/watch?v=vB5611atQvg&t" alt="Youtube">
+<a href="https://www.youtube.com/channel/UCIjUUgu6rU6jKzj3xFXyVYg" alt="Youtube">
    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 <a href="vinimedeiros7@outlook.com" alt="Outlook">
