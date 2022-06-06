@@ -1,5 +1,3 @@
-## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Me chamo Vinícius
-
 <p align="center">
 <a href="https://www.linkedin.com/in/vinimedeiros13/" target="_blank">
   <img src="https://i.imgur.com/60sQ91c.png" width="80%" alt="imagem"> <br>
