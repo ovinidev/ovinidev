@@ -1,8 +1,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/vinimedeiros13/" target="_blank">
-  <img src="https://i.imgur.com/sIiUQfv.gif" width="80%" alt="imagem"> <br>
-  
-<h4> 🪐 Me chamo Vinícius, tenho 20 anos, sou desenvolvedor Front-End Jr na Sidelab e sou apaixonado pelo que faço, também estou cursando Análise e Desenvolvimento de Sistemas.</h4>
+  <img src="https://i.imgur.com/NsFn52L.png" width="80%" alt="imagem"> <br>
 
 <h2> 🚀 Front-End: </h2>
 
