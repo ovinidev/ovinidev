@@ -13,10 +13,6 @@
 &nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="imagem" width="60"> &nbsp;
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="imagem" width="60"> &nbsp;
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="imagem" width="60"> &nbsp;
-&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="imagem" width="68"> &nbsp;
 &nbsp;
 <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="imagem" width="65"> &nbsp;
