@@ -1,6 +1,6 @@
 # Vini
 
-Front end Developer [@Dataside](https://www.dataside.com.br). <br>
+Front end Developer [@Dataside](https://www.dataside.com.br).
 Based in São José dos Campos, SP.
 
 React and Next are the technologies I'm most focused on.
