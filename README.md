@@ -3,7 +3,7 @@
 Front end Developer [@Dataside](https://www.dataside.com.br).
 Based in São José dos Campos, SP 🇧🇷.
 
-React and Next are the technologies i'm most focused on. In moment i'm too studying backend with node.
+React and Next are the technologies i'm most focused on.
 
 Instagram: [@vinidev__](https://www.instagram.com/vinidev__)  
 LinkedIn: [@vinimedeiros13](https://linkedin.com/in/vinimedeiros13)
