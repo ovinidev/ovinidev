@@ -1,8 +1,8 @@
-Frontend Developer [@stone](https://www.stone.com.br).
-Based in Rio de Janeiro, RJ 🇧🇷.
+## Frontend Developer [@Stone](https://www.stone.com.br)  
+Based in Rio de Janeiro, RJ 🇧🇷  
 
-I've been a front end developer for 4 years. Kotlin are the technologies i'm most focused on.
+I've been a frontend developer for 4 years.  
+Currently, I’m most focused on **React**, working on both **web** and **mobile**/**React Native** development.  
 
-https://vini-medeiros.vercel.app
-
-LinkedIn: [@vinimedeiros13](https://linkedin.com/in/vinimedeiros13)
+🌐 [Profile](https://vini-medeiros.vercel.app)  
+💼 [LinkedIn](https://linkedin.com/in/vinimedeiros13)
