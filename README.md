@@ -1,4 +1,4 @@
-## Mobile Software Engineer at [@Stone](https://www.stone.com.br)  
+## Software Engineer at [@Stone](https://www.stone.com.br)  
 Based in Rio de Janeiro, RJ 🇧🇷  
 
 I've been a frontend developer for 4 years.  
